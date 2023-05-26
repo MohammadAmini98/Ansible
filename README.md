@@ -1,4 +1,2 @@
 # Ansible
-Hi\
-this repositpory is my Ansible repository for training :)\
-Goodbye 
+this repositpory is my Ansible repository for training
